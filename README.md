@@ -18,95 +18,111 @@
 
 ---
 
-# 🎬 ACT I — ORIGIN STORY
+🎬 ACT I — ORIGIN STORY
 
-```text
 While others write code,
 I build systems that move data at scale.
 Kafka streams. Hadoop breathes.
 Clusters fail — I make them recover.
 
 👤 Amer Nasir
+
 ⚙️ Big Data Engineer | Kafka Administrator
 🏢 Dreamcare Developers Pvt. Ltd.
 🌍 Mumbai, India
 
-I work where downtime is unacceptable and data never stops.
+I work in environments where downtime is unacceptable and
+data never stops flowing.
 
 ⚡ ACT II — THE STACK (VISUAL POWER)
+
+I design and operate enterprise-grade data platforms built for
+scale, performance, and reliability.
+
 🔥 ACT III — WHAT I DO IN PRODUCTION
-🚀 Kafka: The Heartbeat
+🚀 Kafka: The Heartbeat of Streaming
 
-Confluent Kafka (On-Prem)
+I manage Kafka as a mission-critical backbone, not just a tool.
 
-Brokers, ZooKeeper / KRaft
+Confluent Kafka (On-Prem – Production & DR)
 
-Topic design, partitions, ISR
+Broker lifecycle management
 
-Lag optimization & rebalance fixes
+ZooKeeper & KRaft architecture
 
-Kafka Connect, Schema Registry
+Topic design, partitions & ISR tuning
 
-RBAC, ACLs, SSL, SASL
+Consumer lag analysis & rebalance fixes
 
-⚙️ Big Data: The Engine
+Kafka Connect & Schema Registry
 
-Hadoop HA (NameNode, RM, Hive)
+Enterprise security: RBAC, ACLs, SSL, SASL
 
-Spark tuning (memory, shuffle, GC)
+⚙️ Big Data: The Engine Behind Scale
 
-Hive & Impala troubleshooting
+I ensure Big Data platforms remain fast, stable, and resilient.
 
-NiFi + Kafka streaming pipelines
+Hadoop High Availability
+(NameNode, ResourceManager, Hive)
+
+Apache Spark performance tuning
+(memory, shuffle, garbage collection)
+
+Hive & Impala deep troubleshooting
+
+Real-time streaming pipelines using
+Apache NiFi + Kafka
 
 🔐 ACT IV — SECURITY MODE: ENABLED
-
 🛡️ Zero-Trust Big Data Architecture
 
-MIT & AD Kerberos
+Security is designed in, not added later.
 
-Apache Ranger
+MIT & Active Directory Kerberos
 
-SSL / TLS encryption
+Apache Ranger authorization
 
-HDFS Encryption Zones
+SSL / TLS encryption (in-motion)
 
-POSIX, ACLs & Sticky bits
+HDFS Encryption Zones (at-rest)
+
+POSIX permissions, ACLs & Sticky Bits
 
 Security is not a feature.
 Security is the foundation.
 
 🤖 ACT V — AUTOMATION ERA
+⚡ Infrastructure as Code
 
-⚡ Terraform Everything
+I automate everything that can be automated.
 
-Infra as Code
+Terraform-driven infrastructure
 
-Kafka clusters
+Kafka cluster provisioning & scaling
 
-AWS EC2, VPC, S3, IAM
+AWS resources: EC2, VPC, S3, IAM
 
-🔁 CI/CD
+🔁 CI/CD Pipelines
 
 GitHub → Jenkins
 
 Zero-downtime deployments
 
-Automated rollbacks
+Automated rollbacks & recovery
 
-📉 Result: 60% manual effort eliminated
+📉 Result:
+60% reduction in manual operational effort
 
 🏆 ACT VI — IMPACT (REAL NUMBERS)
 
-📊 40% faster processing
+What changed because of my work:
+
+📊 40% faster data processing
+
 ⚡ 30% higher ingestion throughput
-🔁 HA Kafka + Hadoop clusters
+
+🔁 Highly Available Kafka + Hadoop clusters
+
 🔥 Multiple P1 production incidents resolved
-📉 Reduced MTTR dramatically
 
-
-🧠 ACT VIII — MINDSET
-Design for failure.
-Secure by default.
-Automate relentlessly.
-Scale without fear.
+📉 MTTR reduced dramatically
